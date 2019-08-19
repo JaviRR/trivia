@@ -1,0 +1,23 @@
+.subject{
+    background-color: lightgoldenrodyellow;
+    width: 90%;
+    margin: 0 auto;
+}
+.col{
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px auto 0px auto;
+    font-size: 11px;
+    padding: 5px;
+}
+.col{
+    text-align: center;
+}
+li{
+    margin: 5px;
+    cursor: pointer;
+}
